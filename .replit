@@ -1,0 +1,2 @@
+language="java11"
+run = "javac 'Java Practice/SolutionTemplate.java' && java -classpath 'Java Practice/' SolutionTemplate"
