@@ -61,4 +61,9 @@ public class Animal extends Actor
             getWorld().removeObject(actor);
         }
     }
+    
+    public void act() 
+    {
+        move(1);
+    }
 }

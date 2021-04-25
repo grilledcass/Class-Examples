@@ -15,5 +15,7 @@ public class Fish extends Animal
     public void act() 
     {
         // Add your action code here.
+        super.act();
+        move(1);
     }    
 }
